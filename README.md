@@ -1,6 +1,6 @@
 # To 8bit style image converter.
 
-## A simple CLI program that converts images to a pixelated version.
+### A simple CLI program that converts images into a pixelated, 8-bit art style by reducing resolution and color depth.
 
 
 ### From
